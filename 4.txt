@@ -1,0 +1,8 @@
+What I couldn't do:
+- I completed the whole lab 4
+
+What I learned:
+- Custom dataset
+- Read up about U-Net
+- Upsampling
+- Downsampling
