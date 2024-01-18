@@ -1,0 +1,9 @@
+What I couldn't do:
+- Training my UNet implementation
+- Using WandB
+
+What I learned:
+- How to write an Encoder
+- How to write a Decoder
+- How to write an U-Net architecture
+- Metrics like pixel accuracy and intersection over union
