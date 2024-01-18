@@ -1,0 +1,15 @@
+I managed to accomplish all tasks for lab 2.
+
+What I learned:
+- How evaluation is done for classifiers
+- Softmax
+- The use of temperature
+- Datasets
+- Bias trick
+- Fit & Predict
+- Backpropagation
+- Cross-Entropy
+- Confusion matrix
+- Accuracy, Precision, Recall - differences between each
+- Forward
+
