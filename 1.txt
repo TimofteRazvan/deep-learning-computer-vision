@@ -1,0 +1,9 @@
+In the first lab, I managed to accomplish all tasks.
+
+What I learned:
+- How to manipulate numpy arrays and images
+- Histograms
+- How images are stored
+- How to vectorize code
+- Broadcasting
+- Some more about activation functions and plotting
