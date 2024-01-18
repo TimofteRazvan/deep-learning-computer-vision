@@ -1,0 +1,15 @@
+What I couldn't do:
+- I managed to complete the whole lab 3
+
+What I learned:
+- What a convolutional neural network is
+- What a convolution is (how to calculate)
+- Low pass filters
+- High pass filters
+- Difference between dataset and dataloader
+- Transforms
+- Transfer learning
+- Loss functions
+- Optimizers
+- Pooling'
+- Using the GPU
