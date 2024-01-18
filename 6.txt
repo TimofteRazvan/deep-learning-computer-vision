@@ -1,0 +1,5 @@
+What I couldn't do:
+- The 'final project'
+
+What I learned:
+- A bit about gradio
